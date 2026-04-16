@@ -1,4 +1,7 @@
 # SaaS Revenue Intelligence Dashboard
+
+**Live Demo** https://saas-revenue-intelligence-axa79dynyhsreref2o5t6n.streamlit.app/
+
 🚀 End-to-End SaaS Financial Analytics Case Study (Python + Streamlit)
 
 NimbusHR is a subscription-based SaaS platform providing HR management solutions for small and medium-sized businesses.
