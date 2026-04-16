@@ -1,0 +1,351 @@
+customer_id,signup_date,company_size,industry,country,acquisition_channel
+1,2024-04-24,1-10,Education,Germany,LinkedIn
+2,2024-08-16,11-50,Education,USA,Google Ads
+3,2025-03-08,1-10,Tech,USA,LinkedIn
+4,2024-08-26,1-10,Manufacturing,UK,Referral
+5,2024-08-13,200+,Manufacturing,Germany,Google Ads
+6,2024-06-12,200+,Healthcare,Germany,LinkedIn
+7,2024-08-08,51-200,Tech,USA,Referral
+8,2024-04-09,51-200,Healthcare,Australia,Organic
+9,2024-02-14,200+,Manufacturing,USA,Referral
+10,2024-03-21,51-200,Education,Australia,Organic
+11,2024-07-15,1-10,Tech,UK,Organic
+12,2024-03-22,11-50,Tech,Canada,Organic
+13,2025-04-09,51-200,Finance,Germany,Organic
+14,2024-08-02,51-200,Education,USA,LinkedIn
+15,2025-06-30,11-50,Finance,Canada,Referral
+16,2024-10-03,11-50,Education,Germany,Google Ads
+17,2024-08-22,1-10,Healthcare,Canada,Organic
+18,2024-03-08,11-50,Manufacturing,Germany,LinkedIn
+19,2025-05-26,200+,Education,Canada,LinkedIn
+20,2024-09-28,11-50,Finance,Australia,Organic
+21,2025-03-14,200+,Healthcare,UK,LinkedIn
+22,2025-06-05,200+,Tech,USA,Google Ads
+23,2024-06-05,11-50,Education,Canada,Google Ads
+24,2025-01-29,200+,Manufacturing,Canada,Organic
+25,2024-01-12,1-10,Education,Australia,Organic
+26,2024-12-14,1-10,Healthcare,Canada,LinkedIn
+27,2025-04-09,1-10,Education,Germany,LinkedIn
+28,2025-06-03,1-10,Education,Germany,LinkedIn
+29,2024-06-05,51-200,Finance,Australia,Google Ads
+30,2024-11-27,200+,Tech,USA,Organic
+31,2024-11-10,11-50,Tech,UK,Google Ads
+32,2024-03-28,200+,Tech,Australia,LinkedIn
+33,2024-05-11,200+,Manufacturing,UK,Organic
+34,2025-06-24,200+,Finance,Australia,LinkedIn
+35,2024-11-15,200+,Education,Germany,Referral
+36,2025-06-13,200+,Tech,UK,LinkedIn
+37,2024-03-06,51-200,Tech,Australia,LinkedIn
+38,2024-08-13,1-10,Tech,USA,LinkedIn
+39,2024-03-10,1-10,Healthcare,USA,LinkedIn
+40,2024-10-12,200+,Finance,Australia,LinkedIn
+41,2025-04-29,11-50,Retail,Canada,LinkedIn
+42,2024-04-06,1-10,Education,Canada,Organic
+43,2025-03-09,200+,Retail,USA,Google Ads
+44,2024-03-03,200+,Education,Germany,Google Ads
+45,2024-09-11,11-50,Finance,Australia,Referral
+46,2024-05-23,200+,Finance,Germany,Referral
+47,2024-09-12,1-10,Retail,Australia,Google Ads
+48,2024-02-21,1-10,Tech,UK,LinkedIn
+49,2025-02-20,200+,Retail,UK,Referral
+50,2024-03-01,11-50,Retail,USA,Referral
+51,2024-09-28,200+,Healthcare,Canada,Referral
+52,2024-06-07,11-50,Healthcare,UK,Google Ads
+53,2024-03-03,51-200,Tech,USA,Referral
+54,2025-05-29,11-50,Tech,Australia,Google Ads
+55,2024-07-09,1-10,Manufacturing,USA,LinkedIn
+56,2025-02-17,1-10,Manufacturing,UK,Google Ads
+57,2024-03-24,200+,Education,Australia,Organic
+58,2024-09-24,11-50,Education,Germany,LinkedIn
+59,2024-09-28,200+,Finance,Germany,Referral
+60,2024-11-19,1-10,Tech,Canada,Google Ads
+61,2024-03-16,11-50,Manufacturing,Germany,LinkedIn
+62,2024-12-23,1-10,Finance,Germany,Organic
+63,2024-06-10,200+,Manufacturing,Germany,Google Ads
+64,2024-11-02,1-10,Finance,Germany,Google Ads
+65,2024-04-19,11-50,Healthcare,Germany,LinkedIn
+66,2024-12-17,11-50,Education,Germany,Referral
+67,2024-09-14,1-10,Tech,Canada,Organic
+68,2024-02-15,1-10,Healthcare,UK,Organic
+69,2024-06-14,200+,Manufacturing,Canada,Google Ads
+70,2024-04-24,1-10,Education,UK,Google Ads
+71,2025-01-13,11-50,Retail,UK,Google Ads
+72,2024-11-11,51-200,Tech,Germany,LinkedIn
+73,2024-09-12,1-10,Healthcare,Australia,Referral
+74,2024-06-07,11-50,Finance,UK,Referral
+75,2024-01-26,11-50,Education,Germany,Referral
+76,2024-09-11,51-200,Finance,USA,Referral
+77,2024-02-09,200+,Finance,UK,Referral
+78,2024-12-24,51-200,Finance,UK,Google Ads
+79,2024-07-16,200+,Healthcare,Germany,Google Ads
+80,2024-10-12,51-200,Education,Australia,Referral
+81,2024-12-05,1-10,Tech,Germany,LinkedIn
+82,2024-09-28,1-10,Tech,Australia,Referral
+83,2024-12-19,51-200,Retail,Australia,Google Ads
+84,2025-01-29,11-50,Healthcare,USA,Referral
+85,2024-01-02,11-50,Healthcare,Canada,Google Ads
+86,2024-12-04,51-200,Education,USA,Organic
+87,2025-06-03,51-200,Education,Canada,Organic
+88,2025-02-16,51-200,Manufacturing,UK,LinkedIn
+89,2025-03-06,200+,Education,UK,Organic
+90,2025-02-19,1-10,Healthcare,Germany,LinkedIn
+91,2025-03-16,51-200,Retail,Canada,Referral
+92,2024-08-06,200+,Education,UK,Google Ads
+93,2024-10-17,51-200,Tech,UK,Organic
+94,2024-08-18,11-50,Finance,USA,Google Ads
+95,2024-09-07,200+,Manufacturing,USA,Referral
+96,2025-02-28,11-50,Education,Canada,Referral
+97,2025-02-13,11-50,Finance,USA,Google Ads
+98,2025-03-11,11-50,Finance,Australia,Referral
+99,2024-02-21,11-50,Tech,Canada,LinkedIn
+100,2025-04-20,51-200,Retail,Australia,Referral
+101,2025-04-01,11-50,Education,Canada,Referral
+102,2024-09-22,11-50,Education,Germany,Referral
+103,2024-09-01,51-200,Retail,USA,Organic
+104,2024-08-28,51-200,Healthcare,Germany,Google Ads
+105,2024-05-21,11-50,Finance,Canada,LinkedIn
+106,2024-08-07,1-10,Retail,Canada,Organic
+107,2025-04-22,200+,Tech,UK,Referral
+108,2025-02-02,1-10,Manufacturing,Canada,Referral
+109,2024-01-07,51-200,Healthcare,Canada,Referral
+110,2024-08-13,200+,Finance,Germany,Referral
+111,2025-05-12,1-10,Retail,Germany,Referral
+112,2024-06-18,200+,Finance,Australia,Google Ads
+113,2025-02-07,1-10,Tech,Canada,LinkedIn
+114,2025-04-17,11-50,Tech,Germany,Referral
+115,2024-12-01,11-50,Retail,Germany,Organic
+116,2025-01-23,51-200,Retail,Germany,Google Ads
+117,2025-04-26,1-10,Education,Australia,Google Ads
+118,2024-12-24,11-50,Education,USA,Google Ads
+119,2024-02-01,11-50,Finance,USA,LinkedIn
+120,2024-09-01,11-50,Retail,USA,LinkedIn
+121,2025-04-21,51-200,Healthcare,UK,Google Ads
+122,2024-06-16,51-200,Tech,Australia,Google Ads
+123,2024-11-15,200+,Retail,UK,Google Ads
+124,2024-09-05,1-10,Education,Germany,Google Ads
+125,2024-02-12,51-200,Manufacturing,Canada,Organic
+126,2024-03-11,51-200,Tech,Canada,Referral
+127,2024-04-18,200+,Healthcare,Canada,LinkedIn
+128,2025-03-21,11-50,Education,Australia,Organic
+129,2025-05-10,200+,Retail,Australia,Organic
+130,2024-11-26,11-50,Tech,Germany,Referral
+131,2024-09-06,200+,Manufacturing,Australia,Referral
+132,2024-12-10,1-10,Retail,Germany,LinkedIn
+133,2025-05-14,11-50,Healthcare,Germany,Organic
+134,2024-10-13,51-200,Manufacturing,USA,LinkedIn
+135,2024-03-28,11-50,Education,Canada,Referral
+136,2024-09-03,200+,Education,Canada,Referral
+137,2024-01-18,1-10,Healthcare,UK,Referral
+138,2024-09-06,51-200,Education,Australia,Organic
+139,2025-04-29,51-200,Retail,Australia,Organic
+140,2024-12-26,200+,Healthcare,Germany,Organic
+141,2024-08-24,1-10,Education,UK,Organic
+142,2024-05-02,11-50,Finance,UK,Referral
+143,2024-10-10,51-200,Tech,UK,Organic
+144,2024-08-20,51-200,Finance,Germany,Google Ads
+145,2025-06-30,11-50,Healthcare,USA,Google Ads
+146,2024-10-26,11-50,Education,Canada,Google Ads
+147,2024-01-13,51-200,Retail,Canada,Referral
+148,2024-12-14,11-50,Tech,Germany,Referral
+149,2024-04-26,1-10,Retail,Canada,Google Ads
+150,2024-02-24,11-50,Finance,Australia,Organic
+151,2024-03-28,11-50,Tech,Australia,Referral
+152,2024-08-19,200+,Retail,Canada,Organic
+153,2025-03-15,51-200,Manufacturing,Australia,Google Ads
+154,2024-04-11,11-50,Education,UK,Organic
+155,2024-03-24,11-50,Finance,UK,Google Ads
+156,2024-06-09,1-10,Retail,Canada,Referral
+157,2024-10-25,1-10,Finance,Germany,Organic
+158,2025-04-09,1-10,Education,UK,Organic
+159,2024-07-21,200+,Tech,Australia,LinkedIn
+160,2024-06-01,51-200,Finance,USA,Google Ads
+161,2024-06-18,51-200,Manufacturing,Australia,Organic
+162,2025-03-25,1-10,Retail,Germany,Referral
+163,2024-10-05,200+,Retail,USA,Google Ads
+164,2025-03-18,51-200,Manufacturing,Germany,Google Ads
+165,2024-04-03,11-50,Education,Australia,Google Ads
+166,2024-10-02,1-10,Finance,Canada,Referral
+167,2024-10-11,11-50,Manufacturing,Canada,Referral
+168,2024-04-03,200+,Healthcare,Canada,Organic
+169,2024-11-24,1-10,Finance,Germany,Referral
+170,2025-05-22,51-200,Education,Canada,Google Ads
+171,2025-04-10,1-10,Healthcare,Germany,Organic
+172,2024-04-28,200+,Manufacturing,USA,Referral
+173,2025-02-27,1-10,Finance,Australia,Organic
+174,2025-05-25,200+,Tech,UK,Organic
+175,2024-05-14,51-200,Retail,Canada,Google Ads
+176,2024-01-30,11-50,Education,UK,Organic
+177,2024-01-15,200+,Tech,UK,Google Ads
+178,2025-04-17,1-10,Education,UK,Referral
+179,2024-10-25,51-200,Retail,Canada,Referral
+180,2024-09-06,200+,Manufacturing,UK,Referral
+181,2024-07-14,11-50,Tech,Germany,Referral
+182,2024-12-14,51-200,Tech,Germany,Organic
+183,2025-05-16,11-50,Retail,Australia,Referral
+184,2024-12-19,51-200,Manufacturing,Australia,Referral
+185,2025-04-11,51-200,Finance,UK,Referral
+186,2024-08-27,200+,Tech,Germany,Referral
+187,2025-01-25,200+,Education,UK,Referral
+188,2024-02-07,11-50,Manufacturing,Australia,Organic
+189,2024-04-12,200+,Tech,Australia,Referral
+190,2024-01-16,11-50,Retail,UK,Google Ads
+191,2025-04-25,51-200,Healthcare,Australia,Referral
+192,2024-03-23,51-200,Education,Australia,Referral
+193,2024-11-20,200+,Manufacturing,USA,Google Ads
+194,2024-08-28,51-200,Finance,USA,Referral
+195,2024-04-10,1-10,Retail,UK,Organic
+196,2024-01-30,1-10,Healthcare,USA,Organic
+197,2025-01-02,51-200,Retail,UK,LinkedIn
+198,2025-06-27,200+,Manufacturing,UK,LinkedIn
+199,2024-06-28,1-10,Manufacturing,Canada,LinkedIn
+200,2025-05-24,11-50,Finance,Canada,Organic
+201,2025-04-15,51-200,Education,USA,Referral
+202,2024-10-21,11-50,Tech,Canada,Organic
+203,2024-11-02,200+,Education,Germany,Referral
+204,2024-11-05,11-50,Retail,Canada,Google Ads
+205,2024-08-30,200+,Manufacturing,Germany,Organic
+206,2024-10-29,1-10,Education,Canada,Organic
+207,2024-01-09,1-10,Manufacturing,Canada,Organic
+208,2024-08-23,51-200,Finance,UK,Organic
+209,2024-05-20,1-10,Education,USA,Organic
+210,2025-03-27,1-10,Manufacturing,Germany,LinkedIn
+211,2024-04-02,51-200,Healthcare,Canada,LinkedIn
+212,2024-07-24,11-50,Manufacturing,Germany,Organic
+213,2024-06-17,51-200,Retail,Germany,Organic
+214,2024-04-27,200+,Tech,UK,LinkedIn
+215,2025-02-10,51-200,Tech,Canada,Google Ads
+216,2024-09-27,1-10,Retail,Germany,Organic
+217,2025-01-25,51-200,Tech,UK,Referral
+218,2024-01-26,51-200,Manufacturing,UK,Google Ads
+219,2025-04-20,51-200,Education,Canada,Google Ads
+220,2024-05-23,1-10,Tech,Germany,Referral
+221,2024-04-28,1-10,Finance,Australia,LinkedIn
+222,2025-02-01,200+,Healthcare,Australia,Referral
+223,2024-06-07,200+,Education,USA,Referral
+224,2025-02-21,51-200,Tech,Germany,LinkedIn
+225,2025-03-30,200+,Finance,Germany,Google Ads
+226,2025-01-11,51-200,Tech,Canada,Organic
+227,2024-07-13,1-10,Retail,USA,LinkedIn
+228,2024-01-22,1-10,Healthcare,UK,LinkedIn
+229,2024-07-29,1-10,Manufacturing,UK,LinkedIn
+230,2024-08-26,51-200,Finance,Australia,Google Ads
+231,2024-10-10,11-50,Finance,Australia,Organic
+232,2024-06-27,1-10,Education,USA,LinkedIn
+233,2024-01-16,51-200,Finance,Australia,Organic
+234,2024-01-17,11-50,Healthcare,USA,LinkedIn
+235,2025-03-07,1-10,Education,USA,Referral
+236,2025-04-04,51-200,Manufacturing,Australia,Google Ads
+237,2025-04-07,11-50,Manufacturing,USA,Organic
+238,2025-04-14,1-10,Tech,Canada,Referral
+239,2025-03-12,1-10,Retail,Canada,Google Ads
+240,2024-03-23,51-200,Manufacturing,UK,Google Ads
+241,2024-05-09,51-200,Manufacturing,Australia,Organic
+242,2025-01-25,51-200,Retail,Australia,Referral
+243,2024-04-11,1-10,Education,Australia,LinkedIn
+244,2025-03-16,200+,Finance,Canada,Organic
+245,2025-04-09,200+,Retail,USA,Organic
+246,2025-03-13,51-200,Education,Germany,Organic
+247,2024-06-05,200+,Tech,USA,Google Ads
+248,2024-04-05,200+,Tech,Germany,LinkedIn
+249,2024-03-02,51-200,Education,USA,Referral
+250,2024-12-28,200+,Education,USA,Organic
+251,2024-11-15,51-200,Tech,Australia,LinkedIn
+252,2024-06-07,200+,Finance,USA,Organic
+253,2025-01-11,1-10,Healthcare,Australia,LinkedIn
+254,2025-03-15,1-10,Manufacturing,Germany,Google Ads
+255,2024-07-03,51-200,Education,Germany,Organic
+256,2024-12-25,1-10,Finance,UK,Referral
+257,2024-03-12,11-50,Education,USA,Google Ads
+258,2025-06-27,11-50,Retail,Canada,Referral
+259,2024-12-15,11-50,Healthcare,Germany,Organic
+260,2024-03-27,1-10,Finance,UK,Google Ads
+261,2024-03-24,51-200,Retail,Canada,Referral
+262,2025-03-28,200+,Healthcare,UK,Google Ads
+263,2024-12-19,200+,Tech,Germany,Referral
+264,2025-06-23,51-200,Tech,UK,Referral
+265,2024-02-26,1-10,Finance,Germany,LinkedIn
+266,2024-05-20,51-200,Healthcare,Germany,Google Ads
+267,2024-01-08,200+,Education,Canada,LinkedIn
+268,2024-05-12,200+,Manufacturing,UK,Organic
+269,2024-03-14,200+,Education,USA,Referral
+270,2024-01-20,200+,Tech,Germany,Referral
+271,2025-02-18,200+,Healthcare,USA,Referral
+272,2024-01-22,51-200,Finance,Australia,Referral
+273,2025-01-05,1-10,Retail,USA,LinkedIn
+274,2025-03-22,200+,Manufacturing,USA,Referral
+275,2024-11-13,51-200,Finance,Germany,LinkedIn
+276,2024-03-19,1-10,Manufacturing,Australia,LinkedIn
+277,2024-12-23,51-200,Education,UK,LinkedIn
+278,2024-04-15,11-50,Healthcare,UK,LinkedIn
+279,2024-06-05,1-10,Finance,Canada,Referral
+280,2025-04-04,51-200,Education,Germany,LinkedIn
+281,2025-03-26,1-10,Retail,Canada,Organic
+282,2024-10-08,1-10,Healthcare,Australia,Google Ads
+283,2024-11-13,200+,Retail,USA,Google Ads
+284,2025-01-12,51-200,Tech,USA,Referral
+285,2025-04-18,1-10,Retail,Australia,LinkedIn
+286,2024-11-25,200+,Manufacturing,UK,Google Ads
+287,2025-04-06,1-10,Healthcare,USA,LinkedIn
+288,2024-02-10,11-50,Education,Canada,Referral
+289,2025-06-20,11-50,Healthcare,Germany,Organic
+290,2025-01-31,200+,Healthcare,Australia,Google Ads
+291,2024-12-08,1-10,Healthcare,USA,Referral
+292,2024-10-17,51-200,Education,Australia,LinkedIn
+293,2024-12-07,1-10,Manufacturing,UK,Organic
+294,2024-11-13,200+,Finance,Australia,Google Ads
+295,2024-11-13,200+,Education,Germany,LinkedIn
+296,2025-06-23,1-10,Education,Canada,Organic
+297,2024-01-19,51-200,Healthcare,UK,LinkedIn
+298,2024-12-15,200+,Finance,UK,LinkedIn
+299,2024-06-07,1-10,Healthcare,USA,Google Ads
+300,2024-12-10,11-50,Manufacturing,Canada,LinkedIn
+301,2024-06-15,11-50,Education,Australia,LinkedIn
+302,2025-03-24,1-10,Retail,Germany,LinkedIn
+303,2025-03-30,51-200,Education,Canada,LinkedIn
+304,2025-06-30,11-50,Healthcare,Canada,LinkedIn
+305,2025-01-11,200+,Retail,Germany,Referral
+306,2025-05-29,200+,Finance,UK,LinkedIn
+307,2024-09-13,1-10,Education,Canada,Organic
+308,2024-04-15,1-10,Healthcare,USA,LinkedIn
+309,2024-10-06,200+,Manufacturing,UK,Referral
+310,2024-04-03,11-50,Retail,Germany,Google Ads
+311,2025-02-28,1-10,Retail,Australia,Organic
+312,2024-08-29,200+,Tech,Germany,LinkedIn
+313,2024-01-29,51-200,Tech,Germany,LinkedIn
+314,2024-05-20,1-10,Healthcare,Canada,LinkedIn
+315,2025-04-25,200+,Manufacturing,USA,Google Ads
+316,2024-01-20,51-200,Finance,UK,Referral
+317,2024-04-23,51-200,Finance,Germany,Google Ads
+318,2024-02-18,11-50,Retail,Australia,Referral
+319,2024-03-05,1-10,Retail,Australia,Google Ads
+320,2025-06-11,11-50,Education,UK,Organic
+321,2025-03-15,1-10,Manufacturing,Germany,LinkedIn
+322,2025-03-02,11-50,Education,USA,Organic
+323,2024-03-10,1-10,Retail,Canada,Google Ads
+324,2025-01-31,51-200,Healthcare,USA,Organic
+325,2024-03-10,51-200,Finance,USA,Organic
+326,2024-05-16,1-10,Healthcare,Australia,Organic
+327,2024-06-28,200+,Education,Canada,LinkedIn
+328,2024-05-18,1-10,Education,Canada,Google Ads
+329,2024-10-27,11-50,Tech,UK,Google Ads
+330,2024-11-19,51-200,Manufacturing,Canada,Referral
+331,2024-09-16,1-10,Education,UK,Organic
+332,2024-12-31,1-10,Education,Germany,Organic
+333,2024-05-07,51-200,Retail,Canada,Referral
+334,2025-01-30,51-200,Finance,Canada,Referral
+335,2025-01-11,51-200,Tech,Canada,Google Ads
+336,2025-03-16,11-50,Manufacturing,Germany,Organic
+337,2024-04-15,1-10,Healthcare,Germany,Organic
+338,2025-04-01,200+,Finance,Canada,Organic
+339,2025-04-02,1-10,Education,Germany,Referral
+340,2024-10-08,1-10,Tech,Canada,Organic
+341,2025-06-09,11-50,Tech,UK,Referral
+342,2024-02-05,11-50,Tech,UK,Organic
+343,2025-01-05,200+,Manufacturing,USA,LinkedIn
+344,2025-04-05,51-200,Healthcare,Canada,Google Ads
+345,2024-05-20,51-200,Retail,Germany,Organic
+346,2024-09-12,1-10,Tech,UK,Referral
+347,2025-06-14,200+,Manufacturing,USA,Organic
+348,2024-09-23,200+,Finance,Australia,Organic
+349,2025-05-17,11-50,Tech,UK,Google Ads
+350,2025-04-07,11-50,Education,Canada,Google Ads
